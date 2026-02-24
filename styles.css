@@ -100,3 +100,11 @@ grid-template-columns: 1fr;
   color: #111;
   border: 1px solid #e6e6e6;
 }
+.card h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.card p {
+  margin: 0 0 10px 0;
+}
